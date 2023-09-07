@@ -1,4 +1,4 @@
-# How to train reinforcement learning model? 
+# How to train reinforcement learning model? with tabular data
 
 **[RL_TRAINING](jupyter_notebook:RL_TRAINING)** 
 
